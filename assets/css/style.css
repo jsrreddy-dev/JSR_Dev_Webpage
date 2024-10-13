@@ -1,4 +1,11 @@
-jsr{
-    color:darkgoldenrod;
-    font-family: 'Times New Roman', Times, serif;
+.navBarbg{
+    background-color: #3a3f44;
+}
+
+nc{
+    color: #f05871;
+}
+
+.bodybgcolor{
+    background-color: #0D1321;
 }
