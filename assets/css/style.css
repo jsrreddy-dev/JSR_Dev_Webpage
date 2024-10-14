@@ -25,3 +25,30 @@
     transform: scale(1.5);
     text-shadow: 0 0 10px #E43F5A, 0 0 20px #E43F5A, 0 0 30px #E43F5A, 0 0 40px #E43F5A;
 }
+
+.hr{
+    color: white;
+}
+
+.footer{
+    background-color: #0D1321;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+img, video {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .navbar-nav {
+        flex-direction: column;
+    }
+}
